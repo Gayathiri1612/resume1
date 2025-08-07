@@ -1,0 +1,67 @@
+header
+{
+    background-color: rgb(223, 126, 147);
+    padding :20px;
+}
+h1{
+   color:rgb(223, 125, 68);
+}
+h1,ul{
+    text-align: center;
+    background-color:bisque;
+}
+ul li{
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: rgb(134, 126, 206);
+    font-size: 20px;
+}
+ul a{
+    text-decoration: none;
+    font-size: 20px;
+}
+a li :hover{
+    font-size: 23px;
+    color: rgb(219, 179, 204);
+}
+img{
+    border-radius: 10%;
+}
+ul h1{
+    color:rgb(183, 169, 196);
+    font-size: 30px;
+}
+ul,pre{
+ background-color:bisque;
+}
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-bottom: 20px; 
+}
+th, td {
+    border: 1px solid rgb(175, 36, 36); /* Sets a 1px solid light gray border */
+    padding: 8px; /* Adds padding inside the cells */
+    text-align: left; /* Aligns text to the left within cells */
+    background-color: bisque;
+}
+
+/* Styling for table headers */
+th {
+    background-color:bisque; /* Light gray background for headers */
+    color: #333; /* Darker text color for headers */
+
+}
+body{
+    background-color:aliceblue;
+}
+#about{
+    background-color: bisque;
+}
+section{
+    background-color: bisque;
+}
+#Contact{
+    background-color: rgb(104, 145, 145);
+}
